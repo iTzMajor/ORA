@@ -1,0 +1,5 @@
+this script was giving as a task.
+task was to take 2 dates and calculate the amount of days between them.
+
+*added the Time libary
+for a information textbox.
