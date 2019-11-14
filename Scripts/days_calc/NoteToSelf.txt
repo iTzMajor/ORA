@@ -1,0 +1,3 @@
+add the lines that counter what if user type x/x/xxxx date.
+add a finish calc line.
+work with people.
