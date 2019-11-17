@@ -1,0 +1,7 @@
+used >def< to create the Time function
+imports used are 
+sys = for every single letter print
+time = for creating a pause / dealy before printing any letter
+os = for cleaning the screen before and after lunch
+
+made this tamplate for future use.
